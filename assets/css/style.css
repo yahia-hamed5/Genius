@@ -1,3 +1,11 @@
+section{
+display: flex;
+justify-content: center;
+}
+header {
+    display: flex;
+    justify-content: center;
+}
 .container {
 padding-right: 182px;
 padding-left: 182px;
