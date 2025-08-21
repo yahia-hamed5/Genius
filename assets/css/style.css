@@ -1,12 +1,18 @@
 section{
 display: flex;
 justify-content: center;
+padding-right: 182px;
+padding-left: 182px;
+
 }
 header {
     display: flex;
     justify-content: center;
+    padding-right: 182px;
+padding-left: 182px;
+
 }
 .container {
-padding-right: 182px;
-padding-left: 182px;
+/* padding-right: 182px;
+padding-left: 182px; */
 }
